@@ -37,6 +37,6 @@ coding!
 - Rafael Vecchi: [GitHub](https://github.com/VecchiR) / [LinkedIn](https://www.linkedin.com/in/rafaelvecchisilva/)
 - Greg Minezzi: [GitHub](https://github.com/minezzig) / [LinkedIn](https://linkedin.com/in/gregoryminezzi)
 - Anita Boakye-Yiadom: [GitHub](https://github.com/AnitaBoakye) / [LinkedIn](https://linkedin.com/in/anitaboakyeyiadom)
-
+- Pat Okwu: [GitHub](https://github.com/PatSt001)
    ...
 - Teammate name #n: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
